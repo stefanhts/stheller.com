@@ -1,9 +1,9 @@
-
 .aboutMe{
-  width: 70%;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 150px;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 html,body, #page4,#page2,#page3 {
@@ -12,7 +12,7 @@ html,body, #page4,#page2,#page3 {
   width: 100%;
   padding: 0;
   font-size: 28px;
-  background-color: #333;
+  background-color: #00ccff;
 }
 
 .contact{
@@ -43,7 +43,9 @@ html,body, #page4,#page2,#page3 {
 
 h2{
   width: 100%;
-  font-size: 500%;
+  /* left:50%;
+  top:50%; */
+  font-size: 200%;
 }
 
 #page3{
@@ -57,27 +59,28 @@ h2{
   /* width: 100%;
   height: auto;
   background-color: #333; */
-  color:white;
+  color:black;
 }
 #page4{
   /* height: auto;;
   width: 100%;
 
   background-color: #333; */
-  color:white;
+  color:black ;
 }
 
 .header {
-  background-color: #333;
+  background-color: #00ccff;
+  width: 100%;
   position: fixed;
-  color: white;
-  bottom:50%;
-  right:25%;
+  float: center;
+  color: black;
+  padding-top:10%;
   text-align: center;
 }
 #headNav a {
   display: inline-block;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -88,14 +91,14 @@ h2{
 
 #navbar {
   overflow: auto;
-  background-color: #333;
+  background-color: #00ccff;
 }
 
 #navbar a {
   float: right;
   vertical-align: center;
   display: block;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -103,17 +106,17 @@ h2{
 }
 
 #navbar,headNav a:hover {
-  background-color: #333;
+  background-color: #00ccff;
   color: black;
 }
 
 #navbar,#headNav a.active {
-  background-color: #333;
-  color: white;
+  background-color: #00ccff;
+  color: grey;
 }
 
 .resume{
-    width:80%;
+    width:90%;
     margin-left: auto;
     margin-right: auto;
     height: 30%;
@@ -133,7 +136,7 @@ h2{
 }
 
 table.that{
-  width: 60%;
+  width: 100%;
 }
 
 /* table.this tr{
