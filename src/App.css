@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+  color: black;
+
+}
+html{
+  background-color: rgb(187, 106, 106);
+}
+/* *{
+    background-image: url('banner.jpg');
+} */
+
+
+
+.zoom{
+  animation: scale(2) 1s ease-in forwards;
+}
+
+
+.list{
+  display: inline-block;
+}
+
+.App-logo {
+  padding-top: 25%;
+  /* animation: home-zoom 3s linear forwards; */
+}
+
+.App-header h1{
+  padding-top: 10%;
+  font-size: 6em;
+  padding: 20px;
+  color: black;
+}
+
+.App-title {
+  font-size: 6em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.grid-container-head{
+  display:  inline-grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-around;
+  grid-template-rows: auto auto auto;
+}
+
+.grid-container > div{
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+
+.item1{
+
+}
+.itemHead{
+  grid-area: 1 / 1/ 1 / 4;
+}
+
+ a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 16px 25px;
+  text-decoration: none;
+  font-size: 16pt;
+}
+
+.options{
+
+}
+
+.opt{
+}
+
+.slide{
+  animation: bouncein 3s linear forwards;
+}
+
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
