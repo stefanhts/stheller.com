@@ -1,0 +1,32 @@
+resume:
+
+summary: I am an 18-year-old, self-taught software engineer with experience in various types of programming, from database and server work to front-end design. My work has included personal projects such as this website, as well as work in physics research at American University, as well as software development for The Washington Service, an insider trading monitoring service.
+
+experience:
+a: Software Engineer for The Washington Service: 2018
+b: Developed web apps and other software items, most commonly in the MVC 5 framework.
+
+a: Researcher for the American University Gravity and Thermal Noise Lab: 2017
+b: Worked with a team to analyze the statistical distribution of quality factor on mirror coatings for inside the LIGO detector.
+
+a: Swim Coach at Mohican Pool: 2015-2017
+b: Coached children ages 6-18 in beginner to advanced level techniques.
+
+a: Private Swim instructor: 2015-2017
+b: Provided private swim lessons to children and adults of all ages and skill levels.
+
+skills:
+Fluent in Java, HTML 5, CSS, JavaScript/JQuery, C#
+Proficient in Python
+Fluent in Microsoft Suite
+Proficient in Spanish
+Comfortable with advanced mathematical concepts including multivariable calculus and linear algebra
+
+education:
+I graduated from Walt Whitman High School in the summer of 2018 and will be attending the University of Maryland College Park in the fall. At the University of Maryland I plan to study Computer Science and Physics. I have taken advanced classes in everything from Physics, Chemistry and Writing, to Multivariable Calculus and Linear Algebra.
+
+references:
+a: American University Internship
+b:
+Associate Professor Department of Physics - Professor Gregory Harry, email available on request
+Manager, Ian MacMillan, email available on request

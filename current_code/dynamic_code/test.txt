@@ -1,0 +1,6 @@
+My name is Stefan Heller. I am an 18-year-old software engineer from Bethesda, MD. In the fall I will be attending the University of Maryland College Park, where I will be studying Computer Science and Physics.
+<p></p><p></p><p></p>I first started writing code at the end of my eighth-grade summer because I was fascinated with computers. By now I have familiarized myself with a multitude of languages including Java, C#, JavaScript, and others. I decided to build this website, which I wrote entirely myself, to refresh my HTML and JavaScript skills and to serve as a resume for my future professional life. I am currently employed as a tech intern at The Washington service, a Bethesda based insider trading monitoring service, for whom I write web apps.
+<p></p><p></p><p></p>I will be periodically updating an rebuilding this site whenever I have time, so expect updates and improvements.
+<p></p><p></p><p></p>
+<p></p><p></p><p></p>I have recently updated the website. I changed the layout of the page, which was originally a single page smooth-scrolling site, to one which relies on JQuery transitions for navigation.
+<p></p><p></p><p></p>
